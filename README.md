@@ -13,7 +13,7 @@ Hopefully, one day someone will find this code in the internet abyss and put it 
 
 ###Usage
 
-There was a quick build script and a freebsd port for this package, yet the former stopped working and I am ashamed of the latter, so these are not included. If you want to try czokomaster, please move the czokomaster dir to ```/wherever/you/keep/your/python/site-packages/```. Then, either move czokomaster.py to ```/usr/local/sbin/``` or start it simply by issuing ```./czokomaster [options]```
+There was a quick build script and a freebsd port for this package, yet the former stopped working and I am ashamed of the latter, so these are not included. If you want to try czokomaster, please move the czokomaster dir to ```/wherever/you/keep/your/python/site-packages/```. Then, either move czokomaster.py to ```/usr/local/sbin/``` or start it simply by issuing ```./czokomaster [options]```.
 
 Need help? Run:
 ```
